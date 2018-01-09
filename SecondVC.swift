@@ -2,8 +2,8 @@
 //  SecondVC.swift
 //  NotificationThreeScreen
 //
-//  Created by admin on 4/29/17.
-//  Copyright © 2017 admin. All rights reserved.
+//  Created by HoangLuyen on 11/15/17.
+//  Copyright © 2017 HoangLuyen. All rights reserved.
 //
 
 import UIKit
